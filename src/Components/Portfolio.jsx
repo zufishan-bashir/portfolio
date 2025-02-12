@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Quiz-App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A simple and interactive Quiz App built using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and calculates their score in real-time. With a clean and responsive design, the app provides an engaging way to test knowledge on various topics.",
+    url: "https://drive.google.com/file/d/1sSSf0XjIYVozBBCogq9Dd6bnVagsN1mM/view?usp=drivesdk",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Internship",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Graphic Design Intern-Creating social media graphics, marketing materials, and brand assets. Working with design tools like Photoshop, Illustrator, and Canva to develop creative visuals that align with brand identity.",
+  //  url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://zufishan-bashir.github.io/resume-website/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Extracirrcular Activities",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    "Served as a member of the organizing team for Harud Fest at Kashmir University (2023), contributing to event planning, coordination, and execution.",
+   // url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
